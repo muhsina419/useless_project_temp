@@ -29,22 +29,22 @@ But hey, who knows? Maybe someday someone will genuinely need to know what “ko
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+ # Languages used
 - Frontend : html5 , css , javascript , bootstrap
 - Database : Mongodb query language
-- 
-- [Frameworks used]
+
+  # Frameworks used
 - Node.js
 - Express.js
 - React
 
-- [Libraries used]
+# Libraries used
 - Axions
 - Mongoose
 - dotenv
 - CORS
 
-- [Tools used]
+  # Tools used
 - canva
 - figma
 - postman
@@ -68,17 +68,76 @@ node app.js - run the web
 
 ### Project Documentation
 For Software:
+# Kerala Dialect Quiz and Search App
+
+This web application brings Kerala’s unique dialects to life! Users can search for district-specific phrases and test their dialect knowledge with a quiz.
+
+---
+
+## Table of Contents
+
+1. [Project Overview](#project-overview)
+2. [Technical Stack](#technical-stack)
+3. [Features](#features)
+4. [Installation and Setup](#installation-and-setup)
+5. [Deployment](#deployment)
+6. [License](#license)
+
+---
+
+## Project Overview
+
+The **Kerala Dialect Quiz and Search App** allows users to explore Kerala’s linguistic diversity by searching for dialect phrases and taking quizzes that challenge their knowledge of local dialects.
+
+---
+
+## Technical Stack
+
+### Languages
+- JavaScript
+- HTML
+- CSS
+
+### Frameworks
+- Express.js (Backend)
+- React.js (Frontend)
+
+### Libraries
+- Axios (API requests)
+- Mongoose (MongoDB integration)
+- dotenv (Environment variables)
+- cors (Cross-origin resource sharing)
+
+### Tools
+- MongoDB Atlas (Database)
+- Vercel/Netlify (Frontend deployment)
+- Fly.io/Render (Backend deployment)
+
+---
+
+## Features
+
+- **Search Functionality**: Users can search dialect phrases by district, retrieving localized expressions and their meanings.
+- **Quiz Game**: A quiz presents random dialect phrases, allowing users to guess their meanings and learn more about Kerala's linguistic variety.
+
+---
+
+## Installation and Setup
+
+### Prerequisites
+- [Node.js](https://nodejs.org/)
+- [MongoDB](https://www.mongodb.com/) (Atlas or local)
 
 
 # Screenshots (Add at least 3)
-![https://imgur.com/a/Ujx8TTU](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![https://imgur.com/a/j8otG6n](Home page)
+*it shows the logo and a carousel transitions*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![https://imgur.com/a/j8otG6n](Quiz app interface)
+*it shows the quiz app interface with a question and four options , we can select any one option from it*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![https://imgur.com/a/j8otG6n](Navigation page)
+*it includes the search bar for searching any keyword and interface to go for the quiz section.*
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -87,11 +146,12 @@ For Software:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+[https://imgur.com/a/j8otG6n]
+
 *Explain what the video demonstrates*
 
 # Additional Demos
-[Add any extra demo materials/links]
+ The same links includes an additional transition vedio of the carousel transition including three variety pictures 
 
 ## Team Contributions
 - Muhsina beegum: backend functionalities including Node.js , react, database integration , creativity and deployement.
