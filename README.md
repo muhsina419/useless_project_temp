@@ -10,7 +10,7 @@
 ### Team Members
 - Team Lead: Muhsina Beegum - Department of computer science
 - Member 2: Abhinandana T U - Department of computer science
-- Member 3: Majida Nasrin - Department of computer science
+- Member 3: Akshaya M K - Department of computer science
 
 ### Project Description
 [2-3 lines about what your project does]
